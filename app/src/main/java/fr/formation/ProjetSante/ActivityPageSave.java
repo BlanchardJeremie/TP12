@@ -1,4 +1,4 @@
-package fr.formation.tp12;
+package fr.formation.ProjetSante;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -9,7 +9,7 @@ import android.widget.EditText;
 
 import com.google.gson.Gson;
 
-import fr.formation.tp12.database.modele.User;
+import fr.formation.ProjetSante.database.modele.User;
 
 public class ActivityPageSave extends AppCompatActivity {
 
@@ -37,6 +37,5 @@ public class ActivityPageSave extends AppCompatActivity {
 
         // Bye l'activité
         finish();
-
     }
 }

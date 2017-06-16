@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="horizontal"
-    tools:context="fr.formation.tp12.ActivityPageSave">
+    tools:context="fr.formation.ProjetSante.ActivityPageSave">
 
     <EditText
         android:id="@+id/nom"

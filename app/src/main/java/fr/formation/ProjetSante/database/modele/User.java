@@ -1,12 +1,12 @@
-package fr.formation.tp12.database.modele;
+package fr.formation.ProjetSante.database.modele;
 
 import java.util.List;
 
-import fr.formation.tp12.database.datasource.Modele;
-import fr.formation.tp12.database.datasource.e.Type;
+import fr.formation.ProjetSante.database.datasource.Modele;
+import fr.formation.ProjetSante.database.datasource.e.Type;
 
-import static fr.formation.tp12.database.datasource.Modele.DataBase;
-import static fr.formation.tp12.database.datasource.Modele.Table;
+import static fr.formation.ProjetSante.database.datasource.Modele.DataBase;
+import static fr.formation.ProjetSante.database.datasource.Modele.Table;
 
 @Table("USER")
 @DataBase("sante.db")

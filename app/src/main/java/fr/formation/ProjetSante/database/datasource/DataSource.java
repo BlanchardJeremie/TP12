@@ -1,4 +1,4 @@
-package fr.formation.tp12.database.datasource;
+package fr.formation.ProjetSante.database.datasource;
 
 import android.content.Context;
 import android.database.Cursor;

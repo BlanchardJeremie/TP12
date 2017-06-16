@@ -1,4 +1,4 @@
-package fr.formation.tp12.database.datasource;
+package fr.formation.ProjetSante.database.datasource;
 
 import android.content.ContentValues;
 
@@ -10,7 +10,7 @@ import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
 
-import fr.formation.tp12.database.datasource.e.Type;
+import fr.formation.ProjetSante.database.datasource.e.Type;
 
 public abstract class Modele<T extends Modele> {
 

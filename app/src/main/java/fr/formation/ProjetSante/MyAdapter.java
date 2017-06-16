@@ -1,4 +1,4 @@
-package fr.formation.tp12;
+package fr.formation.ProjetSante;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -9,7 +9,7 @@ import android.widget.TextView;
 import java.util.List;
 
 
-import fr.formation.tp12.database.modele.User;
+import fr.formation.ProjetSante.database.modele.User;
 
 public class MyAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
